@@ -35,15 +35,15 @@ To set up the environment and run the notebooks, follow these steps:
 ### 1️⃣ **Install Dependencies**  
 Run the following command to install required Python packages:  
 1. Install package    
-    ```sh
-pip install -r requirements.txt
+```
+    pip install -r requirements.txt
 
-    ```
+```
 
 2. Open the notebooks in Jupyter:
-    ```sh
+```sh
     jupyter notebook
-    ```
+```
 
 ## Usage
 
