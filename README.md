@@ -45,4 +45,24 @@ pip install -r requirements.txt
     jupyter notebook
     ```
 
+## Usage
 
+### DistilBERT Notebook
+
+The [Distillbert.ipynb](http://_vscodecontentref_/1) notebook demonstrates how to use the `distilbert-base-uncased` model. Key parameters include:
+
+- `MODEL_NAME`: The name of the model checkpoint.
+- `MAX_LENGTH`: The maximum length for each text segment after processing.
+- `STRIDE`: The stride between the start points of consecutive text segments.
+
+### FAISS Search Notebook
+
+The `Faiss_search.ipynb` notebook contains code for performing FAISS search. Follow the instructions within the notebook to understand how to use FAISS for efficient similarity search.
+
+### EQA Pre/Post-Processing Notebook
+
+The `note_pre_post_processing_eqa.ipynb` notebook includes steps for pre-processing and post-processing data for EQA tasks. Refer to the notebook for detailed instructions.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
