@@ -37,12 +37,10 @@ Run the following command to install required Python packages:
 0. Clone project    
 ```
     git clone https://github.com/NguyenHuy190303/End-End_Question_answering
-
 ```
 1. Install package    
 ```
     pip install -r requirements.txt
-
 ```
 
 2. Open the notebooks in Jupyter:
