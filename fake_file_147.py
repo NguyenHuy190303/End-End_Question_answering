@@ -1,2 +1,0 @@
-# Random content
-print('ATqZjILevcvKpIsuIijL')
